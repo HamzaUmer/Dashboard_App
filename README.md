@@ -1,2 +1,2 @@
 # Website Link
-https://dashboard-react-mhustore.netlify.app/
+https://dashboard-mhustore.netlify.app/
